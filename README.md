@@ -1,6 +1,6 @@
 <p aling="center"> 
   <img src=".github/preview.png" alt="Demonstraçãp do projeto" width="100%"/>
-<p>
+</p>
 
 ## 💻 Projeto
 Esse é i, projeto Web Responsivo de uma cápsula do tempo, para exibir suas memórias em uma linha do tempo
