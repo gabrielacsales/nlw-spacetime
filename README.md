@@ -3,7 +3,7 @@
 </p>
 
 ## 💻 Projeto
-Esse é i, projeto Web Responsivo de uma cápsula do tempo, para exibir suas memórias em uma linha do tempo
+Esse é um projeto Web Responsivo de uma cápsula do tempo, para exibir suas memórias em uma linha do tempo. Para minha própria versão de linha do tempo adicionei momentos que considero relevante para minha carreira profissional. Espero poder adicionar muitos outros em breve. 🙂 
 
 ## 🚀 Tecnologias
 Deselvolvido com HTML, CSS, Git e GitHub durante o evento NLW da rocketseat
